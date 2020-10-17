@@ -21,3 +21,7 @@ div.love{
 img{
   float:left;
 }
+div.second
+{
+  display:table;
+}
