@@ -24,4 +24,5 @@ img{
 div.second
 {
   display:table;
+  float:clear;
 }
