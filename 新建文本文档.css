@@ -19,10 +19,10 @@ div.love{
   border-radius: 5px;
 }
 img{
-  float:left;
+  float:auto;
 }
 div.second
 {
   display:table;
-  float:clear;
+  float:auto;
 }
